@@ -121,7 +121,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`ML API Proxy server running on port ${PORT}`);
   console.log(`Endpoints:`);
   console.log(`  /api/ml/*   -> https://api.mercadolibre.com/*`);

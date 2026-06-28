@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "ml-api-proxy",
   "version": "1.0.0",
   "description": "Mercado Libre API proxy server (zero dependencies)",

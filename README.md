@@ -1,4 +1,4 @@
-﻿# Mercado Libre API Proxy — Railway.app 部署指南
+# Mercado Libre API Proxy — Railway.app 部署指南
 
 ## 特点
 - **零依赖**：仅使用 Node.js 原生 http/https 模块，无需 npm install
